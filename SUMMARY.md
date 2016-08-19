@@ -1,6 +1,6 @@
 # Summary
 
-* [脚手架搭建指南](README.md)
+* [前端脚手架搭建指南](README.md)
 * [一、项目目录结构](project_structure/README.md)
     * [1.1 npm初始化](project_structure/npm_init.md)
     * [1.2 文件目录](project_structure/file_structure.md)
