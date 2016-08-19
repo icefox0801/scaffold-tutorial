@@ -17,8 +17,8 @@
     * [4.1 vue文件](vuejs/vue_file.md)
     * [4.2 vuex](vuejs/vuex.md)
     * [4.3 app基础](vuejs/app_basis.md)
-* 五、React
-    * [5.1 jsx文件](51-jsx.md)
-    * 5.2 redux
-    * 5.3 app基础
+* [五、React](react/README.md)
+    * [5.1 jsx文件](react/jsx_file.md)
+    * [5.2 redux](react/redux.md)
+    * [5.3 app基础](react/app_basis.md)
 
