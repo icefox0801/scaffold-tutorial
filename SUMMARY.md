@@ -4,7 +4,7 @@
 * [一、项目目录结构](project_structure/README.md)
     * [1.1 npm初始化](project_structure/npm_init.md)
     * [1.2 文件目录](project_structure/file_structure.md)
-    * [1.3 模块目录](project_structure/constraint_specification.md)
+    * [1.3 模块目录](project_structure/module_directory.md)
     * [1.4 约束与规范](project_structure/constraint_specification.md)
 * [二、自动化脚本](automation_scripts/README.md)
     * [2.1 开发脚本](automation_scripts/development_scripts.md)
@@ -22,4 +22,7 @@
     * [5.1 jsx文件](react/jsx_file.md)
     * [5.2 redux](react/redux.md)
     * [5.3 app基础](react/app_basis.md)
+* [六、环境配置](environment_config/README.md)
+    * [6.1 语法检查](environment_config/syntax_check.md)
+    * [6.2 忽略文件](environment_config/ignore_file.md)
 
